@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Content3Activity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="CONTENT 3"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textViewContent3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="20dp"
+            android:scrollbars = "vertical"
+            android:layout_marginTop="50dp"
+            android:text="Hypertension and Diabetes Mellitus with COVID 19\n\n\n
+
+Coronavirus which is also known as severe acute respiratory syndrome coronavirus-2 (SARS-Cov-2) is basically spread through droplets of saliva and discharge from nostril from infected person.\n
+People with diabetes  appears to be more vulnerable to become severe ill with COVID-19 virus this is possibly due to fluctuations in blood glucose levels\n
+
+It has been stated by international Society of Hypertension (ISH) ' The person who is
+having high blood pressure has more risk of developing infection with COVID-19' and also
+suggested that antihypertensive class of medicines such as ACE inhibitors and Angiotensin
+receptor blockers may have bad effect on covid patient with hypertension\n\n
+
+
+
+
+Clinical manifestations of hypertension and Diabetes Mellitus with COVID - 19\n
+
+Headache\n
+Increased thirst\n
+Frequent urination\n
+Extreme hunger\n
+Disorientation\n
+Blurred vision\n
+Chest tightness\n
+Shortness of breath\n
+Arrhythmia\n
+Unexplained weight loss\n
+Giddiness\n
+Insomnia\n
+Sub conjunctival hemorrhage\n\n
+
+Causes of hypertension  and Diabetes Mellitus with COVID – 19\n
+
+Idiopathic\n
+Overweight obesity\n
+Impaired glucose tolerance\n
+Smoking\n
+Sedentary lifestyle\n
+Gestational diabetes\n
+Age\n
+Dyslipidemia\n
+Excessive intake of salt\n
+Excessive consumption of alcohol\n
+Psychological stress\n
+Genes\n
+Family history of high blood pressure\n
+Kidney disease\n
+Thyroid problem\n\n
+
+Risk factors of Hypertension and Diabetes Mellitus with COVID 19\n
+
+Race\n
+Age\n
+Family history\n
+Obesity\n
+Tobacco consumption\n
+Sedentary lifestyle\n
+Excessive use of salt\n
+Less intake of potassium in diet\n
+Excessive consumption of alcohol\n
+Stress\n\n
+
+Supportive management of hypertension and diabetes mellitus with covid-19\n
+
+Avoid going hospital until it is necessary\n
+Continue taking your blood pressure and diabetes medication at home.\n
+Go for routine checkup asper asked by doctor\n
+Keep hydrated.\n
+Many people particularly older adult do not consume adequate fluids. Makeup a schedule to ensure that throughout the day you drink fluids on a regular basis.\n
+Physical activity : as many of us will spend more time at home to minimize exposure to the virus ,it is likely we will also reduce physical activity. One solution : going for walks outside the home, provided social distance is maintained ,is a healthy and even morale-boosting activity during difficult times\n\n
+Nutritional management of hypertension and diabetes with covid-19\n
+Based on what we know right now, people with coronary heart disease or hypertension (high blood pressure) may be more susceptible to COVID-19 and are at a greater risk of developing more severe symptoms if they contract the virus.\n
+
+This means that it’s more important than ever before for people with hypertension to be proactive about keeping their blood pressure well-controlled and maintaining good health and nutrition.\n
+
+In addition to continuing to take your medications as prescribed, incorporating regular exercise into your lifestyle and keeping follow-up appointments (either in person or virtually), it’s essential to be mindful of your diet.\n
+
+The DASH diet is often recommended for people with hypertension. DASH stands for Dietary Approaches to Stop Hypertension, and has been shown to reduce blood pressure in as little as two weeks.
+
+The DASH diet is simple and consists of the following five key components:\n
+
+Potassium-rich foods: vegetables (fresh or frozen), whole fruits and low-fat dairy products\n
+Emphasis on plant-based fats (such as avocado, nuts, olive oil); limiting animal fats and trans fats\n
+Lean proteins such as fish and poultry\n
+Whole grains in place of white, refined starches\n
+Cut back on sugar, sodium, sugary drinks and red meat\n
+If you haven’t started following the DASH diet, you can do so now by making gradual changes. One of the biggest improvements we can make is to cut out any sugar-sweetened drinks including soft drinks, sports drinks, sugary coffee drinks, fruity drinks, lemonade and sweet tea. Replace these with water or if you’re looking for flavor, try water with a squeeze of lemon or lime, flavored sparkling water or herbal teas.\n
+To dial back on sodium, start with trading in the salt shaker, adding flavor instead with spices, fresh or dried herbs, and low- and no-salt seasoning blends.\n\n
+Nutritional management of diabetes\n
+Attention to nutrition and adequate protein intake is important.\n
+The daily carbohydrate intake should be approximately 50–60% of the total calorie intake .\n
+Pure water should be preferred over fruit juice, aerated beverages and sugar syrups .\n
+Patients should keep well-hydrated at all times.\n
+Fats should provide not more than 30% of total daily caloric requirements and ideally three teaspoons of polyunsaturated oil per day (eg from groundnut/cottonseed/olive oil) should be used in cooking.\n
+Protein intake should be 1 g/kg/day, but should be less (0.8 g/kg/day) in people with renal problems (diabetic nephropathy and macro albuminuria).\n
+Patients with access to nutritionists are therefore, encouraged to keep regular touch\n\n
+
+
+
+Nursing management of hypertensive and diabetic patients with covid19\n
+• Assess the patient condition regarding their health.\n
+• Assess the history and physical examination regarding their condition.\n
+• A written record should be maintained for the medicines, resident blood glucose levels, blood pressure, body weight, diet chart and temperature by the staff members.\n
+• Advice the patients to use pulse Oximeter to check oxygen saturation level (spo2) by staff members regularly.\n
+• Assess the level of anxiety of the patients regarding their disease condition.\n
+• Daily foot care monitoring should be there for good foot protection of all residents with diabetes.\n
+• Advice the patients to do regular exercise and maintain healthy weight.\n
+• Assess the blood glucose levels and blood pressure on regular basis.\n
+• Advice the patients who are having hypertension with covid-19 to take low sodium diet and maintain intake output chart properly.\n
+• Check the patients for severe sign and symptoms and treat them accordingly.\n
+• Give patients who are having diabetes with covid-19 plenty of oral fluids to be well hydrated.\n
+• Check the levels of blood glucose and blood pressure regularly to prevent the complications.\n
+• Take the medicines on time as prescribed by the doctor's order.\n
+• Guide the patients to wear PPE kit (personal protective equipments) whenever they went outside from the home and come in contact with anyone to prevent the disease.\n\n
+
+
+
+Pharmacological management of HTN and diabetes mellitus with covid-19.\n\n
+The ACE2 receptor plays a central role in severe acute respiratory syndrome coronavirus 2 host cell entry and propagation. It has therefore been postulated that angiotensin converting enzyme inhibitors and angiotensin receptor blockers may upregulate ACE2 expression and thus increase susceptibility to infection. We suggest that alternative anti-hypertensive agents should be preferred among individuals who may be exposed to this increasingly common and potentially lethal virus.
+Currently, insulin should be the main approach to the control of acute glycaemia. Most available evidence does not distinguish between the major types of diabetes mellitus and is related to type 2 diabetes mellitus owing to its high prevalence. However, some limited evidence is now available on type 1 diabetes mellitus and COVID-19. Most of these conclusions are preliminary, and further investigation of the optimal management in patients with diabetes mellitus is warranted.\n\n
+
+
+
+Symptomatic management of DM with covid-19\n
+•Limit salty foods/sodium intake to control thirst.\n
+• Keep yourself hydrated to prevent infection and maintain ketone level in blood or urine.\n
+• Check the blood glucose level before and after meal on daily basis.\n
+• Take blood glucose medications regularly.\n
+• Eat antioxidant diet for healthy vision.\n
+• Reduce caffeine to prevent fatigue and irritability.\n
+• Take insulin as prescribed by the doctor.\n
+• Wound dressing should be done daily for preventing infection.\n
+• Take antibiotics medication for the treatment of infection.\n
+• Drink cranberry juice daily.\n
+• Eat kidney friendly diet( crispy cold vegetables and fresh mint) between meals.\n
+• Quit smoking and alcohol consumption.\n
+• Add plenty of fiber and vitamin C in the diet it helps to heal the sores.\n
+• Manage stress for preventing unintentional weight loss.\n
+• Investigations like complete blood count(CBC) , liver function test(LFT), kidney function test (KFT) and urine analysis should be done for checking the infections and unintentional weight loss.\n\n
+
+
+Conclusion :\n
+People with hypertension and diabetes are at a higher risk of contracting covid19 and of having symptoms that worsen if the disease is contracted. In addition to general preventive practices for covid-19,hypertensive and diabetic patients should pay more attention to their health and do self care practices. To mitigate the devastating effects of covid19 across populations, it is very important to re-emphasize health education on glycemic regulation and aware the population regarding severe effects of hypertension and diabetes with covid-19 which help to decrease the mortality rate of hypertensive and diabetic patients with Covid19.\n\n\n" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/content3_Btn"
+            android:text="Go to Post Test"
+            android:layout_centerHorizontal="true"
+            android:layout_alignBottom="@+id/textViewContent3"/>
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Content2Activity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="CONTENT 2"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textViewContent2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="20dp"
+            android:scrollbars = "vertical"
+            android:layout_marginTop="50dp"
+            android:text="Diabetes with Covid-19:\n\n\n
+Diabetes is one of the leading causes of morbidity and mortality throughout the world. The condition is associated with several macro vascular and microvascular complications, that ultimately impact the overall patient’s survival. A relationship between diabetes and infection has long been clinically recognized. Infections, particularly influenza and pneumonia, are often common and more serious in older people with type 2 diabetes mellitus (T2DM)\n
+
+Older people and people with pre-existing medical conditions (such as diabetes, heart disease and asthma) appear to be more vulnerable to becoming severely ill with the COVID-19 virus. When people with diabetes develop a viral infection, it can be harder to treat due to fluctuations in blood glucose levels and, possibly, the presence of diabetes complications.\n
+
+There appear to be two reasons for this. Firstly, the immune system is compromised, making it harder to fight the virus and likely leading to a longer recovery period. Secondly, the virus may thrive in an environment of elevated blood glucose.\n
+
+
+Scarce data exist regarding glucose metabolism and development of acute complications of diabetes (e.g., ketoacidosis) in patients with COVID-19. Infection of SARS-CoV-2 in those with diabetes possibly triggers higher stress conditions,\n
+
+
+Symptoms\n
+Diabetes symptoms vary depending on how much your blood sugar is elevated. Some people especially those with pediatric or type 2 diabetes may not experience symptoms initially in type 1 diabetes symptoms tend to come on quickly and be more severe
+Some of the sign and symptoms of type 1 type 2 diabetes are:-\n
+Increased thirst\n
+Frequent urination\n
+Extreme hunger\n
+Unexplained weight loss\n
+Presence of ketones in urine\n
+Fatigue\n
+Irritability\n
+Blurred vision\n
+Slow healing scores\n
+Frequent infections such as skin infections and vaginal infection\n\n
+
+
+Cause:\n obesity or being overweight impaired glucose tolerance high blood pressure dyslipidemia just stationed diabetes sedentary lifestyle family history\n
+
+
+
+
+
+Risk factors\n
+Age. Women older than age 25 are at increased risk.\n
+Family or personal history. Your risk increases if you have prediabetes — a precursor to type 2 diabetes — or if a close family member, such as a parent or sibling, has type 2 diabetes. You're also at greater risk if you had gestational diabetes during a previous pregnancy, if you delivered a very large baby or if you had an unexplained stillbirth.\n
+Weight. Being overweight before pregnancy increases your risk.\n
+Race or ethnicity. For reasons that aren't clear, women who are Black, Hispanic, American Indian or Asian American are more likely to develop gestational diabetes.\n
+
+Family history. Your risk increases if a parent or sibling has type 1 diabetes.\n
+Environmental factors. Circumstances such as exposure to a viral illness likely play some role in type 1 diabetes.\n
+The presence of damaging immune system cells (autoantibodies). Sometimes family members of people with type 1 diabetes are tested for the presence of diabetes autoantibodies. If you have these autoantibodies, you have an increased risk of developing type 1 diabetes. But not everyone who has these auto antibodies develops diabetes.\n\n
+
+
+
+Supportive management of dm with covid-19\n
+
+•Take medicines as prescribed-If patient have unpleasant side effects, contact to health care provider.\n
+• Have a complete eye exam once a year as controlling blood sugar level can prevent damage to eyes.\n
+• Take care of your teeth- People with diabetes have a higher risk of cavities and gum diseases. Have regular checkups, brush after every meal and floss daily.\n
+• Protect your skin- Inspect your skin daily for dryness, cuts, redness or any changes. Drink plenty of water(unless your healthcare provider wants you to limit fluids).\n
+• Check your feet- because diabetes may damage nerves in your feet, you may not feel small cuts and bruises. Check your feet daily for sores. If u feel any numbness, tingling or burning in your feet, contact your health care provider immediately. Wear comfortable shoes that fit properly and never go barefoot.\n
+•Check blood pressure and weight- healthcare provider will check blood pressure at each visit;130/80 or less is best.\n
+• Check blood cholesterol level- it should be checked once a year. Total cholesterol should be below 200mg/dl.\n
+• Support- healthcare provider can tell you about diabetes support groups in your area so that you can get tips for living with diabetes.\n
+• Self-monitoring of blood glucose- Frequent self-monitoring of blood glucose is required during covid-19 pandemic. Good glycemic control reduces the risk and severity of infection\n
+including covid-19. It also lessen the chances of superimposed bacterial pneumonia.\n
+• Diet- Protein intake should be less(0.8g/kg/day).The carbohydrate intake should be approximately 50-60% of the total calorie intake. Fat intake should not be provided more than 30% of total daily calorie requirements.\n
+-Patients should be keep hydrated all the times.\n
+• Physical activity- Regular exercise can be done with proper precautions. Continuous monitoring of blood glucose should be done in patients with type 1 diabetes during exercise because of risk of hypoglycemia.\n
+•Stress management- during pandemic, healthcare providers can use telecommunications in discussing about psychological issues of patients. Healthcare providers can educate the patients about coping strategies to deal with stress.\n
+•Smoking and alcoholism- patients with dm should avoid smoking and drinking as it cause insulin ineffective and patients who do smoke need higher doses of insulin, also it cause high risk of having heart and kidney disease.\n\n
+
+
+
+Prevention of COVID-19 in persons who have diabetes:-\n
+
+General precautions to prevent COVID-19 in people with diabetes are mandatory for patients and caregivers. Other methods under consideration are chemoprophylaxis (pre- and post-exposure) and vaccines.\n
+
+Chemoprophylaxis, There is no agent for pre- or post-exposure chemoprophylaxis has been approved so far. Proof is desperately needed from randomized clinical trials. Chloroquine has shown antiviral activity, like COVID-19, against five out of seven known human coronaviruses and is a leading candidate for prophylactic use. In China, ongoing studies have yielded promising preliminary findings, but the knowledge is generally controversial. Diabetes patients are also included in these trials. In order to test the use of lopinavir / ritonavir in post-exposure prophylaxis (NCT04321174), a cluster-randomized controlled trial is scheduled.\n
+
+The Vaccines
+For high-risk people, such as those with diabetes or cardiovascular disease and the elderly, a safe and potent vaccine will certainly be very useful. A variety of vaccines are being investigated: the APICTH study: the recombinant novel coronavirus vaccine; the mRNA-1273 vaccine and the vaccine for artificial antigen-presenting cells
+Nutritional management:-\n
+During the lockdown, restrictions on food supply could cause individuals with DM to modify their dietary habits that were previously linked to good glycemic control. It is necessary to pay attention to nutrition and adequate protein intake. There is typically high consumption of carbohydrate rich foods in resource constrained environments, Zimbabwe included. The daily consumption of carbohydrates should be approximately 50-60 % of the total intake of calories.\n
+
+Pure water, which is also very expensive, should be preferred over fruit juice, aerated drinks and sugar syrup.\n
+Patients should still stay well-hydrated. Fats should provide no more than 30 percent of the total daily caloric requirement and should ideally be used for cooking three teaspoons of polyunsaturated oil per day (e.g. groundnut / cottonseed / olive oil). Protein consumption in people with renal issues should be 1 g / kg / day, but should be lower (0.8 g / kg / day).\n
+
+Telehealth has been shown to increase nutritional consistency, fruit and vegetable intake and nutritional sodium intake by delivering dietary interventions targeting dietary patterns. Patients with access to nutritionists are therefore, advised to keep daily contact with them. General communications from genuine organizations such as the Ministry of Health and Child Care of Zimbabwe, the World Health Organization (WHO), and the Centers for Disease Control (CDC) are also recommended to be used.\n\n
+Pharmacological management:\n
+
+Metformin- It belongs to biguanide class of drugs and is the first line treatment for the patients with type 2 diabetes. It acts by increasing hepatic insulin sensitivity. It also help in reduction of hepatic glucose production and increase the uptake of glucose into peripheral cells.\n
+
+Sulfonylureas- It is the second line treatment of type 2 diabetes but can also be used as alternative first line treatment instead of metformin if patient is unable to tolerate metformin or patient is not overweight. Sulfonylureas acts by binding to a specific receptor on pancreatic beta cells, leading to increase secretion of endogenous insulin.e.g.-gliclazide, meglitinides, glimepiride.\n
+
+Insulin replacement therapy- It required in the majority of type 2 diabetes patients. In this therapy, the level of insulin is supplemented by higher release of insulin to match the glucose load following a meal. There are three strategies of insulin replacement - a basal insulin alone, twice daily biphasic insulin containing a mix of rapid-acting and long-acting insulin and a basal bolus regimen with long-acting insulin with additional doses of short-acting insulin given at meal times.\n
+
+Sodium glucose co transporter 2(SGLT2) inhibitors- It is gluco-uretic agents and provide a target for controlling blood sugar levels via kidneys. Under favorable conditions, glucose is filtered out of the blood by the kidneys via a transporter protein(SGLT-2). By blocking the action of these transporters ,more glucose is excreted in the urine. SGLT2 inhibitors lower blood glucose with a low risk of hypoglycemia. e.g.-dapagliflozin, canagliflozin.\n\n
+
+
+
+
+Nursing management :-\n
+A written record of resident blood glucose, medicines, temperature, diet chart and body weight should be maintained by staff.\n
+
+Have a daily foot care monitoring plan in place to ensure good foot protection for all residents with diabetes.\n
+Usual care of each diabetes resident should strive to ensure that they receive plenty of oral fluids to maintain good hydration, maintain sufficient daily exercise and have a regular meal diet schedule.\n
+
+Residents should undergo their normal diabetes care with routine twice daily capillary blood glucose checks to maintain a level between 7 and 12 mmol/litre and have the ability to record their wishes in any anticipated potential emergency.\n
+
+Diabetic ketoacidosis may be present in residents with diabetes and covid-19 who are usually and very well thirsty, looking dehydrated with deep breathing and blood sugar of 11 mole per litre or more-check urine for raised ketones if strips are available. Hyperosmolar hyperglycemic status can be present in those who are very dehydrated, confused or more drowsy than normal, and with blood sugar of or greater than 30 mmol/litre.\n\n
+
+
+
+Conclusion:-\n
+
+People with DM are at a higher risk of contracting COVID-19 and of having symptoms that worsen if the disease is contracted. In addition to general preventive practices for COVID-19, preventive is predominantly through meticulous diabetes self-care. To mitigate the devastating effects of COVID-19 across populations, it is very important to re-emphasize health education on glycemic regulation.
+\n\n\n" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/content2_Btn"
+            android:text="Go to Content 3"
+            android:layout_centerHorizontal="true"
+            android:layout_alignBottom="@+id/textViewContent2"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

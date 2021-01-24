@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Content1Activity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="CONTENT 1"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/textViewContent1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="20dp"
+            android:scrollbars = "vertical"
+            android:text="Hypertension with COVID - 19
+
+Corona virus which is also known as severe acute respiratory syndrome coronavirus 2 (SARS-Cov-2). This virus is basically spread through droplets of  saliva or discharge from the nostril from infected person.
+The people who is infected with COVID-19 virus experienced mild to moderate respiratory symptoms but recovered without requiring special management, aged people and the people who is suffering from medical problems such as cardiovascular disease, diabetes, chronic respiratory diseases and cancer may lead to develop serious illness.
+
+
+Clinical manifestations of hypertension with COVID - 19\n
+Headache\n
+Disorientation\n
+Blurred vision\n
+Chest tightness\n
+Shortness of breath\n
+Arrhythmia\n
+Hematuria\n
+Giddiness\n
+Insomnia\n
+Subconjunctival hemorrhage\n\n
+
+Causes of hypertension with COVID\n
+
+Idiopathic\n
+Overweight\n
+Smoking\n
+Sedentary lifestyle\n
+Excessive intake of salt\n
+Excessive consumption of alcohol\n
+Psychological\n
+Family history of high blood pressure\n
+Kidney disease\n
+Thyroid problem stress\n
+Genes\n\n
+
+
+Risk factors\n
+Race\n
+Age\n
+Family history\n
+Obesity\n
+Tobacco consumption\n
+Sedentary lifestyle\n
+Excessive use of salt\n
+Less intake of potassium in diet\n
+Excessive consumption of alcohol\n
+Stress\n\n
+
+
+
+Prevention and control of hypertension people with COVID 19\n
+
+Blood pressure medications should be continuously taken as prescribed by Doctors\n
+
+Measure your blood pressure at home If it is possible. It might become somewhat high or low than usual, But Never change your treatment without talking to your doctor or clinic. Poor hydration also can cause low blood pressure.\n
+
+Decrease the salt in your diet. Aim to limit sodium to less than 2,300 milligrams (mg) a day or less. However, a lower sodium intake — 1,500 mg a day or less — is ideal for most adults.\n
+
+Lose weight. Losing even a little weight can reduce your blood pressure.\n
+Manage stress. When you're stressed, you may cope in unhealthy ways that can raise your blood pressure. Try managing stress in healthy ways, such as deep breathing and meditation.\n
+
+Avoid or limit alcohol. Alcohol can raise blood pressure.\n
+
+Quit smoking. Tobacco causes blood pressure to rise and plaque to build up quickly in your arteries.\n
+
+Keep Hydrated Their is many peoples who do not consume sufficient amount of water particularly older adult peoples do not consume adequate amount of water.Make a proper routine to ensure that on a entire day you should drink sufficient amount of water on fluids on regular manner.\n
+
+Physical activity: Many peoples are spending their time at home because of fear of this corona virus Because of this we minimize our regular physical activities or reduce it in some manner.so We can also do one thing we can go outside the house for walks by maintaining proper social distancing its is good healthy and boosting activity\n
+
+
+People with hypertension at high risk\n
+
+Some individuals who are having hypertension are at high risk of complications of high or low blood pressure as well as from the flu covid-19.Some situations require special attention are as following.\n
+
+Older peoples( over 60) who are at high risk of this covid-19 disease and also from their hypertension condition should also follow our recommendations. Feel free to get medical help and never hesitate if notice any develop symptoms.\n
+
+People with previous cardiac, Heart related conditions kidney disease condition or stroke. Should more careful and take all medications as prescribed and do regular followups by virtual or other ways and be prepared if need any necessary medical help\n
+
+Diabetes and high cholesterol (lipid disorders): People with hypertension quite often have diabetes and abnormal cholesterol. It is must to keep taking all prescribed medications and follow all general recommendations, including proper hydration and physical activity, to reduce the increased risk of the COVID-19 flu…\n
+Nutritional management of hypertension with covid-19\n
+According to the current situation we know that people with coronary heart disease or hypertension (high blood pressure) may be more susceptible to COVID-19 and are at high risk of getting severe symptoms of this disease And effect of this virus\n
+
+So at this time to point it is the most important thing to do people with hypertension to be proactive about keeping their blood pressure well-controlled and maintaining good health and nutrition.\n
+
+It can only be done when people with hypertension take their medications as prescribed, Be on their regular exercise schedule to get change into their  lifestyle and maintaining their follow-up appointments (either in person or virtually), it’s essential to be mindful  or following of your diet.\n\n
+
+The DASH Diet\n
+Hypertension patients also recommended to take DASH Diet . DASH means   Dietary Approaches to Stop Hypertension, and it helps  to reduce blood pressure in as little as two weeks.\n
+
+The DASH diet simply contains five points:\n
+Vegetables (fresh or frozen), whole fruits and low-fat dairy products which is potassium rich food\n
+Emphasis on plant-based fats (such as avocado, nuts, olive oil); limiting animal fats and trans fats\n
+Lean proteins such as fish and poultry\n
+Instead of white bread use whole wheat and refined starch\n
+These kind of food should be avoided like sugar, sodium, sugary drinks and red meat.\n
+If someone  haven’t started following this  DASH diet, you can start it  now by making gradual changes. The only  biggest improvements we can do  is to avoid any sugar-sweetened drinks including soft drinks, sports drinks, sugary coffee drinks, fruity drinks, lemonade and sweet tea. Replace or change these with water or if you’re looking for flavor, try water with a squeeze of lemon or lime, flavored sparkling water or herbal teas.\n
+
+
+By avoid  sodium, in meal adding flavor instead with spices, fresh or dried herbs, and low- and no-salt seasoning blends.\n
+(Nursing management of hypertension patient with covid-19)\n
+*Assess the patient condition\n
+*Asses the history nd physical examination of patients\n
+*Assess the anxiety of patient towards his disease conditions\n
+*Advice them to use pulse oximeter to check(spo2) oxygen saturation level or Spo2level checked by staff on regular manner\n
+* strictly advice to take healthy Diet and a low sodium meal\n
+*Advice him to Be calm and do physical activity\n
+*Asses the BP of the patient regular base\n
+*Assess  And maintain the intake output chart\n
+*Advice him to use proper ppe (mask, gloves , facsimiled) when come in contact with anyone\n
+*Advice him to take medicine as prescribed\n
+*A written note should be maintained for blood pressure, body weight, medicines, Temperature By the staff\n
+* Breathing pattern should be assessed on regular interval or on a priority manner\n\n
+Conclusion of hypertension with covid 19 :
+\n\n
+People with hypertension are at a higher risk of contracting COVID-19 and of having symptoms that worsen if the disease is contracted. In addition to general preventive practices for COVID-19, hypertensive patients should pay more attention to their health . To mitigate the devastating effects of COVID-19 across populations, it is very important to re-emphasize health education and aware the population regarding severe effects of hypertension with covid- 19 which help to decrease the mortality rate of HTN patients with covid 19.
+\n\n\n
+" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/content1_Btn"
+            android:text="Go to Content 2"
+            android:layout_alignBottom="@+id/textViewContent1"
+            android:layout_centerHorizontal="true"
+
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>
